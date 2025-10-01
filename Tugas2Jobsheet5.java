@@ -17,7 +17,7 @@ public class Tugas2Jobsheet5 {
         } else {
             System.out.println(angka + " adalah bilangan ganjil.");
 
-        input.close();
+
         }
     }
 }
