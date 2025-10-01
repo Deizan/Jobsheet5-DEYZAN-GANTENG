@@ -1,5 +1,5 @@
 //PERCOBAAN 1
-// MUHAMMAD DEIZAN NAFI FAKHRI /1E/16/SISTEM INFORMASI BISNIS
+// MUHAMMAD DEIZAN NAFI' FAKHRI /1E/16/SISTEM INFORMASI BISNIS
 
 import java.util.Scanner;
 
@@ -15,7 +15,7 @@ public class ifCetakKRS16 {
             System.out.print("Pembayaran UKT terverifikasi?");
             System.out.print("Silakan cetak KRS dan minta tanda tangan DPA");
 
-            
+
             
     }
 }
