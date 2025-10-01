@@ -1,5 +1,4 @@
-//PERCOBAAN 2
-// MUHAMMAD DEIZAN NAFI' FAKHRI /1E/16/SISTEM INFORMASI BISNIS
+
 
 import java.util.Scanner;
 
