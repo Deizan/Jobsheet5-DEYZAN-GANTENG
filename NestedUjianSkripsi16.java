@@ -30,7 +30,7 @@ public class NestedUjianSkripsi16 {
              }
              System.out.println(pesan); 
 
-            input.close();
+
          }
     }
 
